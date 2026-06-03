@@ -1,6 +1,6 @@
 {
-    "appTitle": "Divya Prabandha Pocket Reference",
-    "appSubtitle": "Periya Thirumozhi: Range Router",
+    "appTitle": "Divya Prabandham Pocket Reference",
+    "appSubtitle": "Periya Thirumozhi",
     "chapterRangeMapping": {
         "1-8": "csv_files/pt.csv"
     }
